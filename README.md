@@ -1,8 +1,7 @@
 ***Loja me Zara***
 
-Lojë multiplayer me zara. 
-
 **Qëllimi i lojes**
+
 Në këtë lojë ka 5 zara dhe 1 deri ne 4 lojtare (ky opsion duhet të zgjidhet nga perdoruesi që në momentin që hapet
 loja). Sa herë që një lojtar ka rradhen, ai duke shtypur një buton hedh 5 zarat me shpresë që konfigurimi që ka dalë
 të bëjë pjesë në një nga 13 kategoritë e lojës (kategoritë shpjegohen më poshtë). Nëse hedhja e parë nuk shkon sic
@@ -16,6 +15,7 @@ përzgjidhet e shumta nje herë, loja ka 13 cikle gjithsej. Pas ciklit të 13-t�
 pikëve për secilën kategori. Lojtari që ka shumën e pikëve më të lartë është fituesi.
 
 **Kërkesat**
+
 13-të kategoritë për konfigurimin e zarave dhe pikët përkatëse janë:<br>
 1. Njësha: cdo konfigurim i zarave është i përshtatshëm për këtë kategori. Pikët e fituara janë sa
 shuma e gjithë 1-ve në pesë zarat, nëse nuk ka 1-sha pikët e fituara janë 0.<br>
